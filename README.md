@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**recvfrom/recvfrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrew and I'm a malware researcher + software engineer.  Some of my interests include:
 
-Here are some ideas to get you started:
+ - All things related to computer and network security 🖥️ 🔒
+ - Linux, Vim, C, Python, Android, ... 🐧 🐍
+ - Networking and the Internet (a series of tubes) 📦 🕸️
+ - Contributing to open source software ⚙️ 🎁 
+ - [Folding@Home](https://foldingathome.org) and Citizen Science 🧬 🧪
+ - ... really all things related to computers in general 💻 🖱️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other accounts:
+ - [@SmugYeti](https://twitter.com/SmugYeti) on Twitter 🐦 📰
+ - [@recvfrom](https://stackexchange.com/users/13089410/recvfrom?tab=accounts) on StackOverflow ❔❓
