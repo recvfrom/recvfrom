@@ -1,4 +1,4 @@
-Hello! My name is Andrew and I'm a malware researcher + software engineer.  Some of my interests include:
+Hello! My name is Andrew and I'm a software engineer + former malware researcher.  Some of my interests include:
 
  - All things related to computer and network security 🖥️ 🔒
  - Linux, Vim, C, Python, Android, ... 🐧 🐍
